@@ -1,0 +1,13 @@
+{
+    "author": "suixin",
+    "name": "splicingWords",
+    "version": "0.1.1",
+    "description": "splicing Words",
+    "main": "suixin",
+    "dependencies": {
+        
+    },
+    "engines": {
+        "node": "*"
+    }
+}
